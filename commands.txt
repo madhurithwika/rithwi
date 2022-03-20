@@ -1,0 +1,7 @@
+ Git flow------
+   1.git init
+   2.git status
+   3.git add * or . -----to move work place to stage 
+   4.git commit -m "comment" ------move syage to local rpository
+   5.git remote add alias name GIt repository Https link.....(connect remote repository through PAT)
+   git push ....(to move code to repository)
