@@ -18,6 +18,44 @@
    17.git checkout -b newbranch name
    18.git push fb --all
    19 .git branch -a --- all branches remote and loca
+  
+
+
+  TAGs..........
+   
+   git tag
+   git tag tagname
+   git push fb tagname
+   git tag -d tagname
+
+
+   git stash ---
+    to take backup of working area..temporary locattion
+
+    git stash list
+    stash@{0}
+    stash@{1}
+
+git stash apply Stash@{1}
+git stash drop stash@{1}
+git stash save 
+git stash apply
+git stash drop
+git stash list
+ git stash pop 
+   
+
+   git cherrypick-------------
+    
+    branch>git cherry-pick commitid
+
+
+git clone
+
+
+git fetch..............(remotre to local repo)                   remopte repo
+git pull
+git pull = git fetch+git merge
 
 
    )
