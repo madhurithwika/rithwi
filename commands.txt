@@ -15,6 +15,9 @@
    14.git merge branchname
    15.git diff branchname
    16 git diff branchname branchname
-   17.
+   17.git checkout -b newbranch name
+   18.git push fb --all
+   19 .git branch -a --- all branches remote and loca
+
 
    )
