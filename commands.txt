@@ -5,5 +5,16 @@
    4.git commit -m "comment" ------move syage to local rpository
    5.git remote add alias name GIt repository Https link.....(connect remote repository through PAT)
    6.git push ....(to move code to repository)
-   7.git commit -a -m " comment" ----here direct commiting with out going to stage area for only exit files 
+   7.git commit -a -m " comment" ----here direct commiting with out going to stage area for only exit files
+   8.git log
+   9.git show id
+   10.git branch 
+   11.git checkout
+   12. git branch -d branchname
+   13 git branch -m newbranchname
+   14.git merge branchname
+   15.git diff branchname
+   16 git diff branchname branchname
+   17.
+
    )
